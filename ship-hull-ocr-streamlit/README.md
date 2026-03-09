@@ -6,9 +6,6 @@ A practical, production-ready web app that reads ship names (and other text) fro
 
 Built for maritime spotting, port operations, logistics research, or just ship enthusiasts.
 
-![Demo screenshot - annotated hull with extracted name](https://via.placeholder.com/800x450/0e1117/00ff9d?text=Ship+Hull+OCR+Demo+→+Extracted+Name+%22EVER+GLORY%22)  
-*(replace this placeholder with a real screenshot later — highly recommended!)*
-
 ## ✨ Features
 
 - Drag-and-drop or upload ship hull images (jpg/png/webp)
